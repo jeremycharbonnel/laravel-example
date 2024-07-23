@@ -1,0 +1,7 @@
+/* body {
+    background: orange;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
